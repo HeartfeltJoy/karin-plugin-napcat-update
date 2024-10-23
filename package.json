@@ -1,16 +1,16 @@
 {
-  "name": "karin-plugin-template",
-  "version": "0.0.1",
-  "author": "Lain",
+  "name": "karin-plugin-napcat-update",
+  "version": "v1.0.0",
+  "author": "QIAO",
   "type": "module",
-  "description": "karin plugin template",
-  "homepage": "https://github.com/KarinJS/karin-plugin-template",
+  "description": "使用 karin 快速更新 NapCat",
+  "homepage": "https://github.com/HeartfeltJoy/karin-plugin-napcat-update",
   "bugs": {
-    "url": "https://github.com/KarinJS/karin-plugin-template/issues"
+    "url": "https://github.com/HeartfeltJoy/karin-plugin-napcat-update/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KarinJS/karin-plugin-template.git"
+    "url": "git+https://github.com/HeartfeltJoy/karin-plugin-napcat-update.git"
   },
   "karin": {
     "apps": [
