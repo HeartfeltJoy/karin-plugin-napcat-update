@@ -1,4 +1,4 @@
-# karin-plugin-napcat-update
+![karin-plugin-napcat-update](https://socialify.git.ci/HeartfeltJoy/karin-plugin-napcat-update/image?description=1&font=Raleway&language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2FNapNeko%2FNapCatQQ%2Fmain%2Flogo.png&name=1&pattern=Circuit%20Board&stargazers=1&theme=Auto)
 
 ---
 
